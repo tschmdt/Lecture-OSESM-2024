@@ -8,7 +8,7 @@ def number_of_turbines(installed_capacity):
 
 # function that calculates the energy output for a wind farm over its lifetime with given wind density,
 # rotor diameter, air density, efficency and lifetime
-# varaiale parameters are installed_capacity, average_wind_speed and full_load_hours
+# variable parameters are installed_capacity, average_wind_speed and full_load_hours
 # Units: installed_capacity in MW, average_wind_speed in m/s, full_load_hours in hours, lifetime in years, rotor_diameter in m,
 # wind_density in kg/m^3, energy_output in TWh
 # Base model turbine vestas V90 3 MW Onshore
