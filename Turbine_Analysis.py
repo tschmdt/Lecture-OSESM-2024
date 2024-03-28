@@ -17,7 +17,7 @@ def number_of_turbines(installed_capacity):
 wind_density = 1.225  # kg/m^3
 rotor_diameter = 90  # m
 efficiency = 0.40
-lifetime=20  # years
+lifetime = 20  # years
 
 
 def energy_output(installed_capacity, average_wind_speed, full_load_hours):
