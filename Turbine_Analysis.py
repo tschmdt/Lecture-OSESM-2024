@@ -24,7 +24,7 @@ def energy_output(installed_capacity, average_wind_speed, full_load_hours):
     return round(energy_output/10**6,3) # convert to TWh
 
 
-
+print(energy_output(1, 6, 2000))
 
 
 
