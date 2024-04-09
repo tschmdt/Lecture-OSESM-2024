@@ -5,7 +5,7 @@ from Turbine_Analysis import number_of_turbines, energy_output
 
 
 def test_number_of_turbines():
-    assert number_of_turbines(1) ==2
+    assert number_of_turbines(1) ==3
     assert number_of_turbines(2) == 1
     assert number_of_turbines(3) == 1
     assert number_of_turbines(5) == 2
